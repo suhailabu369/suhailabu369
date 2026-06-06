@@ -20,7 +20,6 @@ Security-focused IT Engineer with **5+ years** of hands-on experience across inf
 I'm not just a tool operator — I design, build, and automate security controls at the enterprise level. My work sits at the intersection of **Cloud Security**, **IAM**, and **Detection Engineering**.
 
 - 🔐 Currently going deep on **Cloud Security** (Azure + AWS) and **IAM Engineering**
-- 📚 Preparing for **AZ-500** and **SC-300** certifications
 - 🧪 Actively building labs on **TryHackMe** (SOC Level 1) and **PortSwigger**
 - 🎯 Long-term goal: **Cloud Security Architect**
 
@@ -55,7 +54,6 @@ I'm not just a tool operator — I design, build, and automate security controls
 | [azure-security-toolkit](https://github.com/suhailabu369/azure-security-toolkit) | Audits Azure misconfigs — MFA gaps, overprivileged apps, Conditional Access coverage | Python · Azure Graph API |
 | [iam-automation-scripts](https://github.com/suhailabu369/iam-automation-scripts) | Automates AD/Entra ID user lifecycle — onboarding, offboarding, stale account detection | PowerShell · Active Directory |
 | [splunk-detection-rules](https://github.com/suhailabu369/splunk-detection-rules) | SPL detection rules for brute force, privilege escalation, lateral movement — MITRE mapped | Splunk SPL · MITRE ATT&CK |
-| [aws-iam-auditor](https://github.com/suhailabu369/aws-iam-auditor) | Scans AWS IAM for wildcard permissions, unused roles, public S3 exposure | Python · Boto3 · AWS |
 | [firewall-rule-auditor](https://github.com/suhailabu369/firewall-rule-auditor) | Parses firewall exports and flags overpermissive rules | Python · Palo Alto · SonicWall |
 | [security-lab-writeups](https://github.com/suhailabu369/security-lab-writeups) | Lab walkthroughs — TryHackMe SOC path, PortSwigger, home lab simulations | Markdown · Documentation |
 
@@ -70,7 +68,6 @@ I'm not just a tool operator — I design, build, and automate security controls
 | AWS Cloud Practitioner | Amazon | ✅ Certified |
 | CCNA – Routing & Switching | Cisco | ✅ Certified |
 | CompTIA Security+ | CompTIA | ✅ Certified |
-| AZ-500: Azure Security Engineer | Microsoft | 🔄 In Progress |
 | SC-300: Identity & Access Administrator | Microsoft | 🔄 In Progress |
 
 ---
